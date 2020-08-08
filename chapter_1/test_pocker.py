@@ -1,7 +1,7 @@
 '''
-Author: your name
+Author: star428
 Date: 2020-08-06 15:36:17
-LastEditTime: 2020-08-06 18:56:20
+LastEditTime: 2020-08-07 08:36:35
 LastEditors: Please set LastEditors
 Description: In User Settings Edit
 FilePath: \Algorithms_and_Data_Strucures\chapter_1\test_pocker.py
