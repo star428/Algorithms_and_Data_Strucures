@@ -25,7 +25,7 @@ def gapInsertSort(alist, startPosition, gap):
         position = index
 
         while position >= gap and \
-                alist[position-gap] > currentValue:
+                alist[position - gap] > currentValue:
             alist[position] = alist[position - gap]
             position -= gap
 
