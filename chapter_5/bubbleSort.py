@@ -12,8 +12,8 @@ def bubbleSort(numList):
     for Outnum in range(len(numList) - 1, 0, -1):
         for inNum in range(Outnum):
             if numList[inNum] > numList[inNum + 1]:
-                numList[inNum], numList[inNum + 1] = numList[inNum +1],\
-                    numList[inNum]
+                numList[inNum], numList[inNum + 1] = numList[inNum + 1], \
+                                                     numList[inNum]
 
 
 def shortBubbleSort(numList):
